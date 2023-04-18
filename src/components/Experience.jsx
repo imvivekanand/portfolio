@@ -3,11 +3,13 @@ import React from "react";
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
+import java from '../assets/java.png';
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import mongodb from "../assets/mongodb.png";
+import express from "../assets/expressjs.png";
+import node from "../assets/nodejs.png";
 
 const Experience = () => {
   const techs = [
@@ -31,30 +33,42 @@ const Experience = () => {
     },
     {
       id: 4,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-400",
+    },
+    {
+      id: 5,
+      src: express,
+      title: "Express",
+      style: "shadow-gray-500",
+    },
+    {
+      id: 6,
       src: reactImage,
       title: "React",
       style: "shadow-blue-600",
     },
     {
-      id: 5,
+      id: 7,
+      src: node,
+      title: "NodeJs",
+      style: "shadow-green-500",
+    },
+    {
+      id: 8,
+      src: java,
+      title: "Java",
+      style: "shadow-blue-500",
+    },
+    {
+      id: 9,
       src: tailwind,
       title: "TailwindCSS",
       style: "shadow-sky-400",
     },
     {
-      id: 6,
-      src: nextjs,
-      title: "NextJs",
-      style: "shadow-white",
-    },
-    {
-      id: 7,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
-    },
-    {
-      id: 8,
+      id: 10,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",

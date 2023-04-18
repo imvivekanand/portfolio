@@ -9,13 +9,8 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">I'm a Full Stack Developer</h2>
-          <p className="text-white py-4 max-w-md">
-            Eu ad magna aliqua commodo duis exercitation eiusmod proident magna.
-            Qui irure exercitation ad do ut magna excepteur. Incididunt amet
-            nisi ad nisi voluptate dolor sunt exercitation cupidatat fugiat
-            nulla. Ex culpa exercitation velit minim do deserunt culpa ipsum id.
-            Ea culpa dolor veniam dolore minim exercitation ut. Sit ad cillum
-            ipsum quis quis adipisicing ad duis.
+          <p className="text-white py-4 max-w-md text-lg">
+            ( Specialized In MERN Stack Development )
           </p>
 
             <div>
