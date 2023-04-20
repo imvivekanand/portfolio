@@ -8,23 +8,15 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
         <p className="text-xl mt-20">
-          Anim fugiat ullamco consectetur ex reprehenderit est voluptate do.
-          Consequat aliqua consequat in irure voluptate minim eu elit
-          reprehenderit laborum aliqua. Do consectetur sit officia velit
-          occaecat deserunt anim aliquip qui veniam proident.
+        Hello Everyone! This is "Vivek Anand". I am a Full Stack Developer, especially a "MERN Stack Developer". 
+
         </p>
 
         <br />
 
         <p className="text-xl">
-          Culpa mollit do veniam enim labore amet eu occaecat ex ad duis.
-          Cupidatat reprehenderit sit proident ad pariatur duis velit et
-          cupidatat aute velit nulla est reprehenderit. Ex magna eiusmod quis
-          qui sint dolore aliqua aute mollit anim. Eu ex ullamco adipisicing
-          adipisicing ullamco Lorem ad reprehenderit. Ea ea veniam duis
-          exercitation sunt. Est Lorem ut pariatur officia irure do non dolore
-          labore esse dolor do laborum dolore. Non fugiat aliquip enim ullamco
-          ea ad id ut quis pariatur magna velit velit cupidatat.
+        I have been working as a freelancer for the last year.
+        You need a website to be built for your business, work, portfolio etc. You can contact me by filling out the "Contact Form".
         </p>
       </div>
     </div>
