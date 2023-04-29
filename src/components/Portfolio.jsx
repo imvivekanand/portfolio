@@ -1,5 +1,7 @@
 import React from "react";
 import flashcard from "../assets/portfolio/flashcard.jpg";
+import sillyapp from "../assets/portfolio/thesillyapp.jpg";
+
 
 
 const Portfolio = () => {
@@ -9,6 +11,12 @@ const Portfolio = () => {
       src: flashcard,
       demo: "https://transcendent-kitten-6d66d8.netlify.app/",
       code: "https://github.com/imvivekanand/AlmaBetter_Flashcard_Capstone_Project"
+    },
+    {
+      id: 2,
+      src: sillyapp,
+      demo: "https://thesillyapp.netlify.app/",
+      code: "https://github.com/imvivekanand/the_silly_app.git"
     },
   ];
 
