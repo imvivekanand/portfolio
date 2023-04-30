@@ -1,6 +1,7 @@
 import React from "react";
 import flashcard from "../assets/portfolio/flashcard.jpg";
 import sillyapp from "../assets/portfolio/thesillyapp.jpg";
+import imagesearch from '../assets/portfolio/imagesearch.jpg'
 
 
 
@@ -17,6 +18,12 @@ const Portfolio = () => {
       src: sillyapp,
       demo: "https://thesillyapp.netlify.app/",
       code: "https://github.com/imvivekanand/the_silly_app.git"
+    },
+    {
+      id: 3,
+      src: imagesearch,
+      demo: "https://theimagesearch.netlify.app/",
+      code: "https://github.com/imvivekanand/imagesearchreactapp.git"
     },
   ];
 
