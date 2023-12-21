@@ -78,10 +78,10 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="h-screen w-full bg-gradient-to-bl from-[#0B6BBF] to-[#0455BF]"
+      className="h-screen w-full bg-gradient-to-bl from-[#0B6BBF] to-[#0455BF] max-md:overscroll-contain "
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center h-full text-white">
-        <div className="max-md:pt-[700px]">
+        <div className="max-md:pt-[1000px]">
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
             Experience
           </p>
