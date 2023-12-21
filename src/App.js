@@ -15,8 +15,6 @@ function App() {
     <div className="portfolio"><Portfolio/></div>
     <div className="experience"><Experience/></div>
     <div className="contact"><Contact/></div>
-
-
     
     <div className="sociallinks"><SocialLinks/></div>
     </div>
