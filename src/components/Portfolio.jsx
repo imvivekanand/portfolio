@@ -1,7 +1,8 @@
 import React from "react";
 import flashcard from "../assets/portfolio/flashcard.jpg";
 import sillyapp from "../assets/portfolio/thesillyapp.jpg";
-import imagesearch from '../assets/portfolio/imagesearch.jpg'
+import imagesearch from '../assets/portfolio/imagesearch.jpg';
+import randomquotegen from '../assets/portfolio/randomquotegen.jpg'
 
 
 
@@ -24,6 +25,12 @@ const Portfolio = () => {
       src: imagesearch,
       demo: "https://theimagesearch.netlify.app/",
       code: "https://github.com/imvivekanand/imagesearchreactapp.git"
+    },
+    {
+      id: 4,
+      src: randomquotegen,
+      demo: "https://imvivekanand.github.io/random_quote_generator",
+      code: "https://github.com/imvivekanand/random_quote_generator"
     },
   ];
 
